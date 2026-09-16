@@ -1148,7 +1148,7 @@ cluster_summary.to_csv(
 
 # Save the cleaned dataset with clusters
 df.to_csv(
-    "Results/insurance_analysis_results.csv",
+    "results/insurance_analysis_results.csv",
     index=False
 )
 
